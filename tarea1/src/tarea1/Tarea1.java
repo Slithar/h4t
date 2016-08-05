@@ -18,6 +18,8 @@ public class Tarea1 {
         // TODO code application logic here
         System.out.println("Hola git");
         System.out.println("I have succesfully pushed this");
+        System.out.println("Ok, voy crear otro repo con otro nombre entonces");
+
     }
     
 }
